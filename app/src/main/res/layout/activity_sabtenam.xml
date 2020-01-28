@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb3"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Sabtenam">
+
+
+    <EditText
+        android:id="@+id/act_sabtenam_nam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/nam"
+        android:inputType="textPersonName"
+        android:maxLength="20" />
+
+    <EditText
+        android:id="@+id/act_sabtenam_namkh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/name_khanevadegi"
+        android:inputType="textPersonName"
+        android:maxLength="30" />
+
+    <EditText
+        android:id="@+id/act_sabtenam_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/adrese_email"
+        android:inputType="textEmailAddress"
+        android:maxLength="30" />
+
+    <EditText
+        android:id="@+id/act_sabtenam_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="8"
+        android:gravity="center"
+        android:hint="@string/shomare_telefon"
+        android:inputType="phone"
+        android:maxLength="11" />
+
+    <EditText
+        android:id="@+id/act_sabtenam_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="8"
+        android:gravity="center"
+        android:hint="@string/ramze_obur"
+        android:inputType="textPassword"
+        android:maxLength="16" />
+
+    <EditText
+        android:id="@+id/act_sabtenam_repeatpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="8"
+        android:gravity="center"
+        android:hint="@string/tekrare_ramze_obur"
+        android:inputType="textPassword"
+        android:maxLength="16" />
+
+    <Button
+        android:id="@+id/act_sabtenam_vorood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="#00FFFFFF"
+        android:onClick="btn_sabt"
+        android:text="@string/sabtenam"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/act_sabtenam_daram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="#00FFFFFF"
+        android:onClick="btn_daram"
+        android:text="@string/hesabe_karbari_daram"
+        android:textColor="#2A8D30" />
+</LinearLayout>

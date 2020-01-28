@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="kanoon_eslami_ansar">کانون اسلامی انصار</string>
+    <string name="vorood">ورود</string>
+    <string name="sabtenam">ثبت نام</string>
+    <string name="desc">desc</string>
+    <string name="hesabe_karbari_nadaram">حساب کاربری ندارم!</string>
+    <string name="hesabe_karbari_daram">حساب کاربری دارم!</string>
+    <string name="adrese_email">آدرس ایمیل</string>
+    <string name="nam">نام</string>
+    <string name="name_khanevadegi">نام خانوادگی</string>
+    <string name="shomare_telefon">شماره موبایل ***09</string>
+    <string name="ramze_obur">رمز عبور</string>
+    <string name="tekrare_ramze_obur">تکرار رمز عبور</string>
+    <string name="profile">حساب کاربری</string>
+    <string name="hameye_ketabha">همه کتاب ها</string>
+    <string name="ketabhaye_soti">کتاب های صوتی</string>
+    <string name="darkhaste_ketab">درخواست کتاب</string>
+    <string name="tarikhi">تاریخی</string>
+    <string name="elmi">علمی</string>
+    <string name="honari">هنری</string>
+    <string name="mazhabi">مذهبی</string>
+    <string name="roman">رمان</string>
+    <string name="darsi">درسی</string>
+    <string name="koodak">کودک</string>
+    <string name="majale">مجله</string>
+    <string name="sher">شعر</string>
+    <string name="dastebandi">دسته بندی ها</string>
+    <string name="name_karbar">نام کاربر</string>
+    <string name="emaile_karbar">ایمیل کاربر</string>
+    <string name="ketabkhane_man">کتابخانه من</string>
+    <string name="pardakhtha">پرداخت ها</string>
+    <string name="anjomanha">انجمن ها</string>
+    <string name="taghvime_barnameha">تقویم برنامه ها</string>
+    <string name="nazarat"> نظرات و پیشنهادات</string>
+    <string name="tanzimat">تنظیمات</string>
+    <string name="forget_password">رمز عبور را فراموش کرده ام</string>
+    <string name="darbare">درباره ما</string>
+    <string name="ersale_payam">ارسال پیام</string>
+    <string name="matne_payam">متن پیام</string>
+    <string name="rezerve_ketab">رزرو این کتاب</string>
+    <string name="bazyabi_password">بازیابی رمز عبور</string>
+    <string name="jalal"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D9%84%D8%A7%D9%84_%D8%A2%D9%84%E2%80%8C%D8%A7%D8%AD%D9%85%D8%AF">جلال آل احمد (ویکی پدیا)</a></string>
+    <string name="matne_zaneziadi">زن زیادی نام یکی از مجموعه داستان‌های جلال آل احمد نویسندهٔ معاصر ایران است.
+
+این مجموعه در واقع جمع‌آوری همهٔ داستان‌های دربارهٔ زنان و با محوریت آنان در یک کتاب است، حال آنکه این داستان‌ها از تمامی آثار آل احمد گردآمده‌اند. نمایشنامه‌ای با همین محتوا توسط حامد بهمنی نوشته شده‌است. آل احمد در این داستان به نقش کم ارزش زن در سالهای ابتدایی قرن سیزده می‌پردازد.
+
+گوشه‌ای از داستان
+«ننه جون شما هیچ کدوم یادتون نمیآدش. منو تازه دو سه سال بود به خونه شوور فرستاده بودن. حاج اصغرمو تازه از شیر گرفته بودم و رقیه رو آبستن بودم…» خاله این‌طور شروع کرد. یکی از شب‌های ماه رمضون بود که او به منزل ما آمده بود و پس از افطار، معصومه سلطان، قلیان کدویی گردویی گردن دراز ما را - که شب‌های روضه، توی مجلس بسیار تماشایی است - برای او آتش کرده بود؛ و او در حالی که نی قلیان را زیر لب داشت، این‌گونه ادامه می‌داد: «... تو همین کوچه سیدولی - که اون وقتا لوح قبرش پیدا شده بود و من خودم با بیم رفتیم تموشا، قربونش برم! - رو یه سنگ مرمر یه زری، ده پونزده خط عربی نوشته بودن. اما من هرچه کردم نتونستم بخونمش. آخه اون وقتا که هنوز چشام کم سو نشده بود، قرآنو بهتر از بی بیم می خوندم. اما خط اون لوح رو نتونستم بخونم. آخه ننه زیر و زبر که نداش که… آره اینو می‌گفتم. تو همون کوچه، یه کارامسرایی بودش خیلی خرابه، مال یه پیرمردکی بود که هی خدا خدا می‌کرد، یه بنده خدایی پیدا بشه و اونو ازش بخره و راحتش کنه…» خاله پس از آن که یک پک طولانی به قلیان زد و معلوم بود که از نفس دادن قلیان خیلی راضی است، و پس از اینکه نفس خود را تازه کرد، گفت: «... اون وقتا تو محل ما یه دختر ترشیده‌ای بود، بهش بتول می گفتن. راستش ما آخر نفهمیدیم از کجا پیداش شده بود. من خوب یادمه روزای عید فطر که می‌شد، با ییشای صناری که از این ور و اون ور جمع می‌کرد، متقالی، چیتی، چیزی تهیه می‌کرد و میومد تو مسجد «کوچه دردار» و وقتی نماز تموم می‌شد، پیرهن مراد بخیه می‌زد؛ ولی هیچ فایده نداشت. بی‌چاره بختش کور کور بود. خودش می‌گفت: «نمی دونم، خدا عالمه! شاید برام جادو جنبلی، چیزی کرده باشن. من کاری از دستم بر نمیآدش. خدا خودش جزاشونو بده.» خلاصه یتیمچه بدبخت آخرسرا راضی شده بود به یه سوپر شوور کنه!»</string>
+    <string name="title_activity_zx">Zx</string>
+
+</resources>

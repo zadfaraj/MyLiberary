@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb3"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".Vorood">
+
+    <EditText
+        android:id="@+id/act_vorood_edttxt_email"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginTop="100dp"
+        android:ems="12"
+        android:gravity="center"
+        android:hint="@string/adrese_email"
+        android:inputType="textEmailAddress"
+        android:maxLength="30"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/act_vorood_edttxt_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="8"
+        android:gravity="center"
+        android:hint="@string/ramze_obur"
+        android:inputType="textPassword"
+        android:maxLength="16"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/act_vorood_vorood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="#00FFFFFF"
+        android:onClick="btn_vorood"
+        android:text="@string/vorood"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/act_vorood_forget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="#00FFFFFF"
+        android:onClick="btn_forget"
+        android:text="@string/forget_password" />
+
+    <Button
+        android:id="@+id/act_vorood_nadaram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="10dp"
+        android:background="#00FFFFFF"
+        android:onClick="btn_nadaram"
+        android:text="@string/hesabe_karbari_nadaram"
+        android:textColor="@color/colorAccent" />
+
+</LinearLayout>
